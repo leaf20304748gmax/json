@@ -1,0 +1,19 @@
+{
+  "listVersion": 1,
+  "locaAuthorizationList": [{
+    "idTag": "idtag1",
+    "idTagInfo": {
+     "expiryDate": "2022/7/19",
+     "parentIdTag": "parentidtag1",
+     "status": "A"
+    }
+  },{
+    "idTag": "idtag2",
+    "idTagInfo": {
+     "expiryDate": "2022/7/20",
+     "parentIdTag": "parentidtag2",
+       "status": "B"
+    }
+  }],
+  "updataType": "Hello World"
+}
